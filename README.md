@@ -24,8 +24,6 @@ O Github Explorer é uma LandingPage do segundo projeto react, GoStack da Rocket
 
 ## 🎨 Layout
 
-O layout da aplicação:
-
 ### Tela de Adição e Listagem de Repositórios
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -48,7 +46,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-## 🧭 Rodando a aplicação web
+### 🧭 Rodando a aplicação web
 
 ```bash
 
