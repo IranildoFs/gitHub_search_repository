@@ -2,7 +2,7 @@
     <img alt="GitHubRepository" title="#GoStack" src="./assets/banner.png" />
 </h1>
 
-<h4 GitHub Repositories Concluído 🚀 >
+<h4> GitHub Repositories Concluído 🚀
 </h4>
 
 <p align="center">
