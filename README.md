@@ -28,7 +28,7 @@ O Github Explorer é uma LandingPage do segundo projeto react, GoStack da Rocket
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Repositorios" title="#goStack" src="./assets/banner.png" width="400px">
 
-  <img alt="ListRepositorios" title="#goStack" src="./assets/banner1.png" width="400px">
+  <img alt="ListRepositorios" title="#goStack" src="./assets/banner2.png" width="400px">
 </p>
 
 ---
