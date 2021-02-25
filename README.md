@@ -1,8 +1,8 @@
-<h1 align="center">
-    <img alt="GitHubRepository" title="#GoStack" src="./assets/banner.png" />
+<h1 align="center"> GitHub Repositories Concluído 🚀
 </h1>
 
-<h1 align="center"> GitHub Repositories Concluído 🚀
+<h1 align="center">
+    <img alt="GitHubRepository" title="#GoStack" src="./assets/banner.png" />
 </h1>
 
 <p align="center">
@@ -10,7 +10,6 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
@@ -27,10 +26,7 @@ O GitHub Repositories é uma LandingPage do segundo projeto react, GoStack da Ro
 
 O layout da aplicação:
 
-
-
 ### Tela de Adição e Listagem de Repositórios
-
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Repositorios" title="#goStack" src="./assets/banner.png" width="400px">
@@ -52,7 +48,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### 🧭 Rodando a aplicação web (Frontend)
+## 🧭 Rodando a aplicação web (Frontend)
 
 ```bash
 
@@ -81,7 +77,7 @@ $ yarn start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
@@ -101,7 +97,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-<h1> Iranldo Fialho da Silva<h1/>
+Iranldo Fialho da Silva
 
 ---
 
