@@ -11,7 +11,6 @@
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
 </p>
 
 
@@ -94,12 +93,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 Iranildo Fialho da Silva
-
----
-
-## 📝 Licença
-
-Este projeto esta sobe a licença [MIT].
 
 
 
