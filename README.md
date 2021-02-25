@@ -1,4 +1,4 @@
-<h1 align="center"> GitHub Repositories Concluído 🚀
+<h1 align="center"> Github Explorer
 </h1>
 
 <h1 align="center">
@@ -17,7 +17,7 @@
 
 ## 💻 Sobre o projeto
 
-O GitHub Repositories é uma LandingPage do segundo projeto react, GoStack da RocketSeat. Este projeto trata-se do consumo da API do GitHub.
+O Github Explorer é uma LandingPage do segundo projeto react, GoStack da RocketSeat. Este projeto trata-se do consumo da API do Github.
 
 
 ---
@@ -48,7 +48,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-## 🧭 Rodando a aplicação web (Frontend)
+## 🧭 Rodando a aplicação web
 
 ```bash
 
@@ -83,8 +83,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
 -   **[Axios](https://github.com/axios/axios)**
 
-
-
 ## 💪 Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
@@ -97,7 +95,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-Iranldo Fialho da Silva
+Iranildo Fialho da Silva
 
 ---
 
